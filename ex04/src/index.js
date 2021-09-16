@@ -2,11 +2,11 @@ function main (){
     // only change code below this line
         var myDecimal = 8.2;
         var myDecimalE = 254 / 1e5;
-    // Only change code above this line
+    // only change code above this line
     return {
         myDecimal,
         myDecimalE
-    }
+    };
 }
 
 console.log(main());
